@@ -14,8 +14,7 @@ Beschreibe kurz und bündig um was für einen Fehler es sich handelt.
 Um das fehlerhafte Verhalten auszulösen, müssen folgende Schritte ausgeführt werden:
 1. Navigiere auf die Seite '...'
 2. Drücke auf den Knopf '....'
-3. ...
-N. Fehler wird ausgelöst / angezeigt
+3. Fehler wird ausgelöst / angezeigt
 
 **Erwartetes Verhalten**
 Eine deutliche Erklärung, welches Verhalten normalerweise zu erwarten *wäre*.
